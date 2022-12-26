@@ -4,4 +4,4 @@
 
 2LAB -> Manipulator Geometry and Direct Kinematics
 
-3LAB -> Manipulator Geometry and Indirect Kinematics
+3LAB -> Jacobian Matrices and Inverse Kinematics
